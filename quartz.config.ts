@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Klondike",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: null,
     locale: "en-US",
     baseUrl: "klondike.band",
