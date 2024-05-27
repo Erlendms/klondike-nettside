@@ -8,31 +8,18 @@ title: Apollo
 | G     C      | D Dsus4/A G  |
 ```
 
-`G         C                 G`
+`G         C                 G`<br>I believe you don't know what you really wanna know:
 
-I believe you don't know what you really wanna know:
+`(G)  C            D   Dsus4/A   G`<br>If I leave right now, would I let you follow?
 
-`(G)  C            D   Dsus4/A   G`
+`(G)    C              G`<br>Do you wanna know how it feels to be complete?
 
-If I leave right now, would I let you follow?
+`(G)        C           D  Dsus4/A  G`<br>I guess you'll find out if you come with me
+<br>
+`          G      C/G  G`<br>and I’ll say "Hey, I'm Apollo,
 
-`(G)    C              G`
-
-Do you wanna know how it feels to be complete?
-
-`(G)        C           D  Dsus4/A  G`
-
-I guess you'll find out if you come with me
-
-
-`          G      C/G  G`
-
-and I’ll say "Hey, I'm Apollo,
-
-`       G       C/G      G Dsus4/A G/H`
-
-and I will see you tomorrow morn’.”
-
+`       G       C/G      G Dsus4/A G/H`<br>and I will see you tomorrow morn’.”
+<br>
 
 `     C         G    D   C`
 
