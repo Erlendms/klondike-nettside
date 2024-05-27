@@ -1,4 +1,4 @@
 ---
-title: City Lights
+title: city_lights
 ---
 * Click here for the chords
