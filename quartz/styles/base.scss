@@ -415,6 +415,9 @@ p {
 }
 p {
   margin-block: 0 0.6rem;
+  &:has(code) {
+    margin-bottom: -0.3rem;
+  }
 }
 
 .table-container {
