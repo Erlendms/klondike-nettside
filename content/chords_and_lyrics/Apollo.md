@@ -1,5 +1,5 @@
 ---
-title: Apollo
+title: apollo
 ---
 * [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
