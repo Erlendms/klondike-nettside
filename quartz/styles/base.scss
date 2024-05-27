@@ -405,15 +405,16 @@ code {
   font-size: 0.9em;
   color: var(--dark);
   font-family: var(--codeFont);
-  border-radius: 5px;
-  padding: 0.1rem 0.2rem;
-  background: var(--lightgray);
+  font-weight: 600;
 }
 
 tbody,
 li,
 p {
   line-height: 1.6rem;
+}
+p {
+  margin-block: 0 0.6rem;
 }
 
 .table-container {

@@ -1,10 +1,13 @@
-## Ridere og stageplot
+---
+title: info
+---
+## ridere_og_stageplot
 * [Lenke til teknisk rider m/hospitality](https://www.dropbox.com/s/knifm5ytswsy64b/Klondike%2C%20teknisk%20rider%20m.%20hospitality.pdf?dl=0)
 * [Lenke til stageplot](https://www.dropbox.com/s/wea3vzde2mr6a9d/Stageplot%2C%20Klondike.pdf?dl=0)
 
 ... men vi er fleksible gutter, som ikke blir veldig grinete om dere må finne andre løsninger.
-## Promotering
-### Tekst som kan brukes:
+## promotering
+### tekst_som_kan_brukes:
 _Klondike_ er et Oslo-basert band, kjent for sine uhyre sterke liveopptredener. De spiller musikken de har ønsket at andre lagde, og leverer den med lidenskap, energi og mengder glimt i øyet.
 
 _Klondike_ blir sammenlignet med både *Beatenberg*, _The 1975_, _Paul Simon_ og _Bruno Mars_ - og med catchy låter, omfavnes 80- og 90-tallet omfavnes for alt det er verdt.
@@ -15,15 +18,15 @@ _Klondike_ blir sammenlignet med både *Beatenberg*, _The 1975_, _Paul Simon_�
 
 Her er en lenke til videoen over: `https://peertube.tv/w/gtzB6Gs66McSMgTD5pqybJ`
 
-## Fakturainformasjon
+## fakturainformasjon
 * **Kontaktperson**: Erlend Markussen Saltnes
 * **E-post**: post@klondike.band
 * **Organisasjonsnummer**: 918 280 413 (Klondikeband AS)
 * **Adresse**: Maridalsveien 256B 0872 Oslo
-## Medlemsinformasjon
+## medlemsinformasjon
 <img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp">
 
-#### Fra venstre:
+#### fra_venstre:
 
 **Simon Timenes** - gitar  
 Født/fra: 1991, Kristiansand
