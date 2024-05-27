@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: klondike
+description: Oslo based pop band, up to some good.
 ---
 # Klondike
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Fellesbilde, liggende.jpg]]
+## /music
+## /insta
+## /chords_and_lyrics
