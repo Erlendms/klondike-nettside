@@ -1,8 +1,7 @@
 ---
 title: Apollo
 ---
-* Click here for the chords
----
+* [[chords_and_lyrics/Apollo|Click here for the chords]]
 I believe you don't know what you really wanna know:  
 If I leave right now, would I let you follow?  
 Do you wanna know how it feels to be complete?  
