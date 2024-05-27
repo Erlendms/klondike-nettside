@@ -1,7 +1,7 @@
 ---
 title: Apollo
 ---
-* [[chords_and_lyrics/Apollo|Click here for the lyrics]]
+* [[Admin/Klondike-nettside/content/chords_and_lyrics/apollo|Click here for the lyrics]]
 #### Intro/theme:  
 ```
 | G     C      | G            |

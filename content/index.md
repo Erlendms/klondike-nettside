@@ -15,12 +15,12 @@ description: Oslo based pop band, up to some good.
 
 ## /chords_and_lyrics
 
-- [[chords_and_lyrics/Apollo|Apollo]]
-- [[chords_and_lyrics/Brother of My Heart|Brother of My Heart]]
-- [[chords_and_lyrics/City Lights|City Lights]]
-- [[chords_and_lyrics/Curtain Call|Curtain Call]]
-- [[chords_and_lyrics/Feet in the Water|Feet in the Water]]
-- [[chords_and_lyrics/Firefighter|Firefighter]]
-- [[chords_and_lyrics/Healing|Healing]]
-- [[chords_and_lyrics/Lose It|Lose It]]
-- [[chords_and_lyrics/Shot Down|Shot Down]]
+- [[Admin/Klondike-nettside/content/chords_and_lyrics/apollo|apollo]]
+- [[brother_of_my_heart|brother_of_my_heart]]
+- [[city_lights|city_lights]]
+- [[curtain_call|curtain_call]]
+- [[feet_in_the_water|feet_in_the_water]]
+- [[Admin/Klondike-nettside/content/chords_and_lyrics/firefighter|firefighter]]
+- [[Admin/Klondike-nettside/content/chords_and_lyrics/healing|healing]]
+- [[lose_it|lose_it]]
+- [[shot_down|shot_down]]
