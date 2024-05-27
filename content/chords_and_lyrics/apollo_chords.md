@@ -8,35 +8,23 @@ title: apollo_chords
 | G     C      | D Dsus4/A G  |
 ```
 
-`G         C                 G`<br>I believe you don't know what you really wanna know:<br>`(G)  C            D   Dsus4/A   G`<br>If I leave right now, would I let you follow?<br>`(G)    C              G`<br>Do you wanna know how it feels to be complete?<br>`(G)        C           D  Dsus4/A  G`<br>I guess you'll find out if you come with me<br>
+`G         C                 G`<br>I believe you don't know what you really wanna know:<br>`(G)  C            D   Dsus4/A   G`<br>If I leave right now, would I let you follow?<br>`(G)    C              G`<br>Do you wanna know how it feels to be complete?<br>`(G)        C           D  Dsus4/A  G`<br>I guess you'll find out if you come with me<br>
 <br>
 `          G      C/G  G`<br>and I’ll say "Hey, I'm Apollo,<br>`       G       C/G      G Dsus4/A G/H`<br>and I will see you tomorrow morn’.”
 <br>
 
 `     C         G    D   C`
-
 Then when you've seen the sun
-
 `          D Dsus4/A  G` 
-
 and when all is said and done
-
 `D/F# Em7 /B C Am7 D G`
-
 I find out you're no Daphne.
-
 `(G)           D    C`
-
 I'll look for more sweet bay
-
 `       D Dsus4/A  G`
-
 but still I guess another day
-
 `D/F# Em7 /B C Am7 D G`
-
 I'll wake up with an oak tree.
-
 
 `G                C         G`
 
