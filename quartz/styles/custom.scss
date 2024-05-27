@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+article {
+  overflow-x: auto;
+}
+
+p {
+  margin-block: 0 0.6rem;
+}
+
+p.lyric {
+  font-style: italic;
+  white-space: nowrap;
+}
+
+p:has(code) {
+  margin-bottom: -0.3rem;
+  white-space: nowrap;
+}
