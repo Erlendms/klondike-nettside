@@ -420,6 +420,10 @@ p {
   }
 }
 
+p:has(code) {
+  margin-bottom: -0.3rem;
+}
+
 .table-container {
   overflow-x: auto;
 
