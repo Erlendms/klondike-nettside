@@ -406,6 +406,7 @@ code {
   color: var(--dark);
   font-family: var(--codeFont);
   font-weight: 600;
+  font-variant-ligatures: none;
 }
 
 tbody,
@@ -415,9 +416,6 @@ p {
 }
 p {
   margin-block: 0 0.6rem;
-  &:has(code) {
-    margin-bottom: -0.3rem;
-  }
 }
 
 p:has(code) {

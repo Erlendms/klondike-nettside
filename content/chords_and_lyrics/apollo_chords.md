@@ -23,7 +23,8 @@ Do you wanna know how it feels to be complete?
 `(G)        C           D  Dsus4/A  G`
 
 I guess you'll find out if you come with me
-<br>
+<br><br>
+
 `          G      C/G  G`
 
 and I’ll say "Hey, I'm Apollo,
@@ -31,7 +32,7 @@ and I’ll say "Hey, I'm Apollo,
 `       G       C/G      G Dsus4/A G/H`
 
 and I will see you tomorrow morn’.”
-<br>
+<br><br>
 
 `     C          G    D   C`
 
