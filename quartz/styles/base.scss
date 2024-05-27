@@ -418,8 +418,14 @@ p {
   margin-block: 0 0.6rem;
 }
 
+p.lyric {
+  font-style: italic;
+  white-space: nowrap;
+}
+
 p:has(code) {
   margin-bottom: -0.3rem;
+  white-space: nowrap;
 }
 
 .table-container {
