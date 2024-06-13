@@ -27,10 +27,10 @@ interface Options {
 
 const defaultOptions: Options = {
   markdownLinkResolution: "absolute",
-  prettyLinks: true,
+  prettyLinks: false,
   openLinksInNewTab: false,
   lazyLoad: false,
-  externalLinkIcon: true,
+  externalLinkIcon: false,
 }
 
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
