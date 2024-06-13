@@ -1,7 +1,5 @@
 ---
 title: apollo_chords
-tags:
-  - chords
 ---
 
 - [[chords_and_lyrics/apollo|Click here for the lyrics]]
@@ -15,7 +13,7 @@ tags:
 
 `G           C                   G`
 
-<p class="lyric">I believe you don't know what you really wanna know:</p>
+*I believe you don't know what you really wanna know:*
 
 `(G)  C             D   Dsus4/A   G`
 
