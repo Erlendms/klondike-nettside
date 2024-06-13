@@ -20,7 +20,7 @@ export default ((opts?: Options) => {
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
-            <li>
+            <li class="footer-link">
               <a href={link}>{text}</a>
             </li>
           ))}

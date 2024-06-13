@@ -2,7 +2,6 @@
 title: klondike
 description: Oslo based pop band, up to some good.
 ---
-
 <img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp">
 
 ## /music
@@ -13,7 +12,8 @@ description: Oslo based pop band, up to some good.
 [Click here to go to Tidal](https://tidal.com/browse/artist/6694130)
 
 ## /social_media
-
+* [Facebook](https://www.facebook.com/klondikeband)
+* [Instagram](https://www.instagram.com/klondikeband)
 ## /chords_and_lyrics
 
 - [[chords_and_lyrics/apollo|apollo]]
