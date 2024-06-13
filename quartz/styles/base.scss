@@ -65,8 +65,9 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary) !important;
+    color: $tertiary-b;
     text-decoration-thickness: 0;
+    text-decoration-color: var(--light);
   }
 
   &.internal {
