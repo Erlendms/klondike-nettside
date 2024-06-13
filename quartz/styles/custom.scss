@@ -78,16 +78,16 @@ footer p {
 }
 
 // Chords
-p:has(code) {
-  margin-block: -0.6rem -1.3rem;
-  code {
-    background: none;
-    color: $tertiary-b;
-    font-weight: $boldWeight;
-  }
-}
-
-// p.song-title {
-//   margin-top: -1rem;
-//   font-size: 0;
+// p:has(code) {
+//   margin-block: -0.6rem -1.3rem;
+//   code {
+//     background: none;
+//     color: $tertiary-b;
+//     font-weight: $boldWeight;
+//   }
 // }
+
+p.song-title {
+  margin-top: -1rem;
+  font-size: 0;
+}
