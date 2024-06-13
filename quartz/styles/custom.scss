@@ -21,7 +21,8 @@ a {
   }
 
   &.internal {
-    text-decoration: unset;
+    text-decoration: underline var(--tertiary);
+    text-decoration-thickness: 2px;
     background-color: unset;
     padding: unset;
     border-radius: unset;
