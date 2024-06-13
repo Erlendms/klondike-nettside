@@ -3,10 +3,14 @@
 // put your custom CSS here!
 footer p {
   opacity: 0.5;
+  a {
+    text-decoration: none;
+  }
 }
 .footer-link {
-  font-size: 24px;
-  margin-inline: 8px;
+  font-size: 18px;
+  margin-top: 8px;
+  margin-right: 8px;
 }
 
 h1 a,
@@ -17,7 +21,16 @@ h1 a,
   font-weight: $normalWeight;
 }
 .breadcrumb-element:last-of-type a {
-  text-decoration: underline 2px;
+  margin-bottom: 11px;
   font-weight: $semiBoldWeight;
-  font-size: 24px;
+  font-size: 32px;
+}
+.page-title {
+  background-image: url(static/klondike_logotype.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  a {
+    color: transparent;
+  }
 }

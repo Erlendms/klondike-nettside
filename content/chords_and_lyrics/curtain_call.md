@@ -1,4 +1,5 @@
 ---
 title: curtain_call
 ---
-* Click here for the chords
+
+- Click here for the chords

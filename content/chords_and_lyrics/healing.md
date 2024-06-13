@@ -1,4 +1,5 @@
 ---
 title: healing
 ---
-* Click here for the chords
+
+- Click here for the chords

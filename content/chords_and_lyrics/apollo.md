@@ -1,8 +1,8 @@
 ---
 title: apollo
 ---
-# /apollo
-* [[chords_and_lyrics/apollo_chords|Click here for the chords]]
+
+- [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
 I believe you don't know what you really wanna know:  
 If I leave right now, would I let you follow?  
@@ -36,5 +36,6 @@ I'll look for more sweet bay
 but still I guess another day  
 I'll wake up with an oak tree.
 
-----
+---
+
 _Lyrics written by Erlend._
