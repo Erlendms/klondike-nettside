@@ -53,3 +53,8 @@ p:has(code) {
     font-weight: $boldWeight;
   }
 }
+
+body,
+section {
+  font-size: 1.2rem;
+}
