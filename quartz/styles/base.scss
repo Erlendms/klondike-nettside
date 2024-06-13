@@ -59,23 +59,20 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration: underline var(--tertiary);
-  text-decoration-thickness: 2px;
-  transition: all 0.35s ease-in-out;
+  text-decoration: none;
+  transition: color 0.2s ease;
   color: var(--secondary);
 
   &:hover {
-    color: $tertiary-b;
-    text-decoration-thickness: 0;
-    text-decoration-color: var(--light);
+    color: var(--tertiary) !important;
   }
 
   &.internal {
-    // text-decoration: none;
-    // background-color: var(--highlight);
-    // padding: 0 0.1rem;
-    // border-radius: 5px;
-    // line-height: 1.4rem;
+    text-decoration: none;
+    background-color: var(--highlight);
+    padding: 0 0.1rem;
+    border-radius: 5px;
+    line-height: 1.4rem;
 
     &:has(> img) {
       background-color: none;
@@ -147,8 +144,7 @@ a {
   }
 
   & > #quartz-body {
-    width: calc(100% - 2rem);
-    margin-left: 1rem;
+    width: 100%;
     display: flex;
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
@@ -199,7 +195,7 @@ a {
     margin: $topSpacing auto 0 auto;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
-      margin-top: 1rem;
+      margin-top: 2rem;
     }
   }
 

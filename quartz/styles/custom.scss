@@ -55,6 +55,11 @@ p:has(code) {
 }
 
 a.internal {
+  text-decoration: unset;
+  background-color: unset;
+  padding: unset;
+  border-radius: unset;
+  line-height: unset;
 }
 
 .page > #quartz-body {
