@@ -59,13 +59,14 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration-color: var(--tertiary);
-  transition: color 0.35s ease-in-out;
+  text-decoration: underline var(--tertiary);
+  text-decoration-thickness: 2px;
+  transition: all 0.35s ease-in-out;
   color: var(--secondary);
 
   &:hover {
     color: var(--tertiary) !important;
-    text-decoration-color: var(--light);
+    text-decoration-thickness: 0;
   }
 
   &.internal {
