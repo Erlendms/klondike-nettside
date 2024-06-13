@@ -77,12 +77,18 @@ footer p {
   margin-right: 8px;
 }
 
-Chords p:has(code) {
+// Chords
+p:has(code) {
+  margin: 0;
   code {
     background: none;
     color: $tertiary-b;
     font-weight: $boldWeight;
   }
+}
+
+p.lyric {
+  margin: 0;
 }
 
 p.song-title {
