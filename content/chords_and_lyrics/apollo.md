@@ -2,7 +2,7 @@
 title: apollo
 ---
 
-- [[chords_and_lyrics/apollo_chords|Click here for the chords]]
+[[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
 I believe you don't know what you really wanna know:  
 If I leave right now, would I let you follow?  

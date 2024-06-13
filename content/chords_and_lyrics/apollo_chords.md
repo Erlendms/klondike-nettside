@@ -2,7 +2,7 @@
 title: apollo_chords
 ---
 
-- [[chords_and_lyrics/apollo|Click here for the lyrics]]
+[[Admin/Klondike-nettside/content/chords_and_lyrics/apollo|Click here for the lyrics]]
 
 #### Intro/theme:
 
@@ -13,7 +13,7 @@ title: apollo_chords
 
 `G           C                   G`
 
-*I believe you don't know what you really wanna know:*
+<p class="lyric">I believe you don't know what you really wanna know:</p>
 
 `(G)  C             D   Dsus4/A   G`
 
