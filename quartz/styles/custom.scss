@@ -17,8 +17,13 @@ h1 a,
 .breadcrumb-element a {
   text-decoration: none;
 }
-.breadcrumb-element a {
-  font-weight: $normalWeight;
+.breadcrumb-element {
+  a {
+    font-weight: $normalWeight;
+  }
+  p {
+    color: var(--tertiary);
+  }
 }
 .breadcrumb-element:last-of-type a {
   margin-bottom: 11px;
@@ -30,6 +35,10 @@ h1 a,
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  font-size: 2.5rem;
+  &:hover {
+    opacity: 0.9;
+  }
   a {
     color: transparent;
   }
