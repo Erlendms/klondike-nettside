@@ -17,105 +17,105 @@ title: apollo_chords
 
 `(G)  C             D   Dsus4/A   G`
 
-_If I leave right now, would I let you follow?_
+<p class="lyric">If I leave right now, would I let you follow?</p>
 
 `(G)     C                G`
 
-_Do you wanna know how it feels to be complete?_
+<p class="lyric">Do you wanna know how it feels to be complete?</p>
 
 `(G)          C            D  Dsus4/A  G`
 
-_I guess you'll find out if you come with me_
+<p class="lyric">I guess you'll find out if you come with me</p>
 <br><br>
 
 `            G      C/G  G`
 
-_and I’ll say "Hey, I'm Apollo,_
+<p class="lyric">and I’ll say "Hey, I'm Apollo,</p>
 
 `         G       C/G      G Dsus4/A G/H`
 
-_and I will see you tomorrow morn’.”_
+<p class="lyric">and I will see you tomorrow morn’.”</p>
 <br><br>
 
 `     C          G    D   C`
 
-_Then when you've seen the sun_
+<p class="lyric">Then when you've seen the sun</p>
 
 `           D Dsus4/A  G`
 
-_and when all is said and done_
+<p class="lyric">and when all is said and done</p>
 
 `D/F# Em7 /B C Am7 D G`
 
-_I find out you're no Daphne._
+<p class="lyric">I find out you're no Daphne.</p>
 
 `(G)             D    C`
 
-_I'll look for more sweet bay_
+<p class="lyric">I'll look for more sweet bay</p>
 
 `         D Dsus4/A  G`
 
-_but still I guess another day_
+<p class="lyric">but still I guess another day</p>
 
 `D/F# Em7 /B C  Am7 D  G`
 
-_I'll wake up with an oak tree._
+<p class="lyric">I'll wake up with an oak tree.</p>
 <br><br>
 
 `G                 C           G`
 
-_When the logging's over then I'll finally get some peace,_
+<p class="lyric">When the logging's over then I'll finally get some peace,</p>
 
 `G           C              D   Dsus4/A   G`
 
-_but come on, we all know that I am no Artemis._
+<p class="lyric">but come on, we all know that I am no Artemis.</p>
 
 `(G)       C               G`
 
-_She hunts on her own I hunt someone who's alone._
+<p class="lyric">She hunts on her own I hunt someone who's alone.</p>
 
 `(G)           C            D  Dsus4/A  G`
 
-_She brings her arrows, I bring more cologne._
+<p class="lyric">She brings her arrows, I bring more cologne.</p>
 <br><br>
 
 `            G      C/G  G`
 
-_And I'll say "Hey, I'm Apollo,_
+<p class="lyric">And I'll say "Hey, I'm Apollo,</p>
 
 `          G      C/G  G`
 
-_and I will see you tomorrow morn’.”_
+<p class="lyric">and I will see you tomorrow morn’.”</p>
 
 `            G            C/G  G`
 
-_And by then you'll have to wallow_
+<p class="lyric">And by then you'll have to wallow</p>
 
 `            G            C/G   G`
 
-_because you only got to to borrow me"._
+<p class="lyric">because you only got to to borrow me".</p>
 <br><br>
 
 `     C           G    D   C`
 
-_Then when you've seen the sun_
+<p class="lyric">Then when you've seen the sun</p>
 
 `            D Dsus4/A  G`
 
-_and when all is said and done_
+<p class="lyric">and when all is said and done</p>
 
 `D/F# Em7 /B C Am7 D G`
 
-_I find out you're no Daphne._
+<p class="lyric">I find out you're no Daphne.</p>
 
 `(G)             D     C`
 
-_I'll look for more sweet bay_
+<p class="lyric">I'll look for more sweet bay</p>
 
 `         D Dsus4/A  G`
 
-_but still I guess another day_
+<p class="lyric">but still I guess another day</p>
 
 `D/F# Em7 /B C  Am7 D   G`
 
-_I'll wake up with an oak tree._
+<p class="lyric">I'll wake up with an oak tree.</p>
