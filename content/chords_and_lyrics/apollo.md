@@ -2,6 +2,8 @@
 title: apollo
 ---
 
+# Apollo
+
 [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
 I believe you don't know what you really wanna know:  
