@@ -7,3 +7,16 @@ footer p {
   font-size: 24px;
   margin-inline: 8px;
 }
+
+h1 a,
+.breadcrumb-element a {
+  text-decoration: none;
+}
+.breadcrumb-element a {
+  font-weight: $normalWeight;
+}
+.breadcrumb-element:last-of-type a {
+  text-decoration: underline 2px;
+  font-weight: $semiBoldWeight;
+  font-size: 24px;
+}
