@@ -11,7 +11,8 @@ description: Oslo based pop band, up to some good.
 
 [Click here to go to Apple Music](https://music.apple.com/no/artist/klondike/1463406042)
 [Click here to go to Tidal](https://tidal.com/browse/artist/6694130)
-## /social
+
+## /social_media
 
 ## /chords_and_lyrics
 
