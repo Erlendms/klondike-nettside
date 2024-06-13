@@ -2,7 +2,7 @@
 title: apollo
 ---
 
-<p id="song-title">Apollo</p>
+<p class="song-title">Apollo</p>
 
 [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
