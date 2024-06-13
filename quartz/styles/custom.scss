@@ -54,14 +54,26 @@ p:has(code) {
   }
 }
 
-a.internal {
-  text-decoration: unset;
-  background-color: unset;
-  padding: unset;
-  border-radius: unset;
-  line-height: unset;
-}
+a {
+  text-decoration: underline var(--tertiary);
+  text-decoration-thickness: 2px;
+  transition: all 0.35s ease-in-out;
+  color: var(--secondary);
 
+  &:hover {
+    color: $tertiary-b;
+    text-decoration-thickness: 0;
+    text-decoration-color: var(--light);
+  }
+
+  &.internal {
+    text-decoration: unset;
+    background-color: unset;
+    padding: unset;
+    border-radius: unset;
+    line-height: unset;
+  }
+}
 .page > #quartz-body {
   width: calc(100% - 2rem);
   margin-left: 1rem;
