@@ -1,8 +1,10 @@
 ---
 title: apollo_chords
+tags:
+  - chords
 ---
 
-- [[Admin/Klondike-nettside/content/chords_and_lyrics/apollo|Click here for the lyrics]]
+- [[chords_and_lyrics/apollo|Click here for the lyrics]]
 
 #### Intro/theme:
 

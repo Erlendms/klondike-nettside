@@ -1,5 +1,7 @@
 ---
 title: apollo
+tags:
+  - lyrics
 ---
 
 - [[chords_and_lyrics/apollo_chords|Click here for the chords]]
