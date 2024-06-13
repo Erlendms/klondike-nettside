@@ -12,7 +12,7 @@ html {
 body,
 section {
   margin: 0;
-  max-width: calc(100% - 2rem);
+  max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -147,7 +147,8 @@ a {
   }
 
   & > #quartz-body {
-    width: 100%;
+    width: calc(100% - 2rem);
+    margin-left: 1rem;
     display: flex;
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
