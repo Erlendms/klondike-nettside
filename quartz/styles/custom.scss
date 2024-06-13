@@ -1,93 +1,93 @@
 @use "./variables.scss" as *;
 @use "./base.scss";
 // put your custom CSS here!
-//
-// .page > #quartz-body {
-//   width: calc(100% - 2rem);
-//   margin-left: 1rem;
-// }
-//
-// // Links
-// a {
-//   text-decoration: underline var(--tertiary);
-//   text-decoration-thickness: 2px;
-//   transition: all 0.35s ease-in-out;
-//   color: var(--secondary);
-//
-//   &:hover {
-//     color: $tertiary-b;
-//     text-decoration-thickness: 0;
-//     text-decoration-color: var(--light);
-//   }
-//
-//   &.internal {
-//     text-decoration: underline var(--tertiary);
-//     text-decoration-thickness: 2px;
-//     background-color: unset;
-//     padding: unset;
-//     border-radius: unset;
-//     line-height: unset;
-//   }
-// }
-//
-// h1 a,
-// .breadcrumb-element a {
-//   text-decoration: none;
-// }
-// .breadcrumb-element {
-//   a {
-//     font-weight: $normalWeight;
-//   }
-//   p {
-//     color: var(--tertiary);
-//   }
-// }
-// .breadcrumb-element:last-of-type a {
-//   margin-bottom: 11px;
-//   font-weight: $semiBoldWeight;
-//   font-size: 32px;
-// }
-//
-// // Header
-// .page-title {
-//   background-image: url(static/klondike_logotype.png);
-//   background-size: cover;
-//   background-position: center;
-//   background-repeat: no-repeat;
-//   font-size: 2.5rem;
-//   transition: all 0.35s ease-in-out;
-//   &:hover {
-//     opacity: 0.7;
-//   }
-//   a {
-//     color: transparent;
-//   }
-// }
-//
-// // Footer
-// footer p {
-//   opacity: 0.5;
-//   a {
-//     text-decoration: none;
-//   }
-// }
-// .footer-link {
-//   font-size: 18px;
-//   margin-top: 8px;
-//   margin-right: 8px;
-// }
-//
-// // Chords
-// p:has(code) {
-//   margin-block: -0.6rem -1.3rem;
-//   code {
-//     background: none;
-//     color: $tertiary-b;
-//     font-weight: $boldWeight;
-//   }
-// }
-//
-// p.song-title {
-//   margin-top: -1rem;
-//   font-size: 0;
-// }
+
+.page > #quartz-body {
+  width: calc(100% - 2rem);
+  margin-left: 1rem;
+}
+
+// Links
+a {
+  text-decoration: underline var(--tertiary);
+  text-decoration-thickness: 2px;
+  transition: all 0.35s ease-in-out;
+  color: var(--secondary);
+
+  &:hover {
+    color: $tertiary-b;
+    text-decoration-thickness: 0;
+    text-decoration-color: var(--light);
+  }
+
+  &.internal {
+    text-decoration: underline var(--tertiary);
+    text-decoration-thickness: 2px;
+    background-color: unset;
+    padding: unset;
+    border-radius: unset;
+    line-height: unset;
+  }
+}
+
+h1 a,
+.breadcrumb-element a {
+  text-decoration: none;
+}
+.breadcrumb-element {
+  a {
+    font-weight: $normalWeight;
+  }
+  p {
+    color: var(--tertiary);
+  }
+}
+.breadcrumb-element:last-of-type a {
+  margin-bottom: 11px;
+  font-weight: $semiBoldWeight;
+  font-size: 32px;
+}
+
+// Header
+.page-title {
+  background-image: url(static/klondike_logotype.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 2.5rem;
+  transition: all 0.35s ease-in-out;
+  &:hover {
+    opacity: 0.7;
+  }
+  a {
+    color: transparent;
+  }
+}
+
+// Footer
+footer p {
+  opacity: 0.5;
+  a {
+    text-decoration: none;
+  }
+}
+.footer-link {
+  font-size: 18px;
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+// Chords
+p:has(code) {
+  margin-block: -0.6rem -1.3rem;
+  code {
+    background: none;
+    color: $tertiary-b;
+    font-weight: $boldWeight;
+  }
+}
+
+p.song-title {
+  margin-top: -1rem;
+  font-size: 0;
+}
