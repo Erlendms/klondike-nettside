@@ -9,4 +9,13 @@ $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $imageRadius: 12px;
-$tertiary-b: #a383b0;
+
+:root {
+  --tertiary-b: #a383b0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tertiary-b: #a9e0de;
+  }
+}

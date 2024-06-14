@@ -15,7 +15,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: $tertiary-b;
+    color: var(--tertiary-b);
     text-decoration-thickness: 0;
     text-decoration-color: var(--light);
   }
@@ -30,9 +30,11 @@ a {
   }
 }
 
-h1 a,
-.breadcrumb-element a {
+h1 a {
   text-decoration: none;
+  &:hover {
+    color: transparent;
+  }
 }
 .breadcrumb-element {
   p {
@@ -40,6 +42,7 @@ h1 a,
   }
   a {
     font-weight: $normalWeight;
+    text-decoration: none;
   }
   &:last-of-type a {
     margin-bottom: 11px;
@@ -107,7 +110,7 @@ p:has(code):not(:has(a)) {
   margin: 0 0 -0.4rem 0;
   code {
     background: none;
-    color: $tertiary-b;
+    color: var(--tertiary-b);
     font-weight: $boldWeight;
   }
 }
