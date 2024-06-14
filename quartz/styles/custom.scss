@@ -194,3 +194,6 @@ li.section-li > .section > .meta {
     text-decoration: none;
   }
 }
+li.section-li > .section {
+  grid-template-columns: 20em 4fr 2fr;
+}
