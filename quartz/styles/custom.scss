@@ -30,12 +30,23 @@ a {
   }
 }
 
-h1 a {
-  text-decoration: none;
+// Header
+.page-title {
+  background-image: url(static/klondike_logotype.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 2.5rem;
+  transition: all 0.35s ease-in-out;
   &:hover {
+    opacity: 0.7;
+  }
+  a,
+  a:hover {
     color: transparent;
   }
 }
+
 .breadcrumb-element {
   p {
     color: var(--tertiary);
@@ -48,22 +59,6 @@ h1 a {
     margin-bottom: 11px;
     font-weight: $semiBoldWeight;
     font-size: 32px;
-  }
-}
-
-// Header
-.page-title {
-  background-image: url(static/klondike_logotype.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  font-size: 2.5rem;
-  transition: all 0.35s ease-in-out;
-  &:hover {
-    opacity: 0.7;
-  }
-  a {
-    color: transparent;
   }
 }
 
