@@ -4,8 +4,6 @@ title: apollo
 
 [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
-<p class="song-title">Song title: Apollo. Lyrics:</p>
-
 I believe you don't know what you really wanna know:  
 If I leave right now, would I let you follow?  
 Do you wanna know how it feels to be complete?  
