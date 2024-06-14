@@ -9,30 +9,24 @@
 
 // Links
 a {
-  text-decoration: underline var(--tertiary);
-  text-decoration-thickness: 2px;
+  text-decoration: underline var(--tertiary) !important;
+  text-decoration-thickness: 2px !important;
   transition: all 0.35s ease-in-out;
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary-b);
-    text-decoration-thickness: 0;
-    text-decoration-color: var(--light);
+    color: var(--tertiary-b) !important;
+    text-decoration-thickness: 0 !important;
+    text-decoration-color: var(--light) !important;
   }
 
   &.internal {
-    text-decoration: underline var(--tertiary);
-    text-decoration-thickness: 2px;
+    // text-decoration: underline var(--tertiary);
+    // text-decoration-thickness: 2px;
     background-color: unset;
     padding: unset;
     border-radius: unset;
     line-height: unset;
-
-    &:hover {
-      color: var(--tertiary-b);
-      text-decoration-thickness: 0;
-      text-decoration-color: var(--light);
-    }
   }
 }
 
