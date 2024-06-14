@@ -3,7 +3,7 @@
 // put your custom CSS here!
 
 :root {
-  --body-margin: clamp(0rem, -0.385rem + 1.538vw, 1rem);
+  --body-margin: clamp(0rem, -1.143rem + 4.571vw, 1rem);
 }
 
 .page > #quartz-body {
@@ -112,6 +112,8 @@ a {
   font-size: clamp(0.8rem, 0.646rem + 0.615vw, 1.2rem);
 }
 
+// Media
+
 img,
 iframe,
 video,
@@ -122,6 +124,7 @@ video,
 
 .lazy-placeholder {
   position: relative;
+  margin: 0;
 
   background-repeat: no-repeat;
   background-size: cover;
