@@ -5,6 +5,7 @@
 :root {
   --page-margin: clamp(0.5rem, 0.308rem + 0.769vw, 1rem);
   --body-margin: clamp(0.1rem, -0.929rem + 4.114vw, 1rem);
+  --underline-thickness: clamp(0.063rem, -0.038rem + 0.4vw, 0.125rem);
 }
 
 .page {
@@ -19,7 +20,7 @@
 a {
   text-decoration-line: underline;
   text-decoration-color: var(--tertiary);
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: var(--underline-thickness);
   transition: all 0.35s ease-in-out;
   color: var(--secondary);
 
