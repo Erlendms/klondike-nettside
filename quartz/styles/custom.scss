@@ -104,7 +104,7 @@ a {
   }
 }
 .navigation-links {
-  margin: 0.5rem 0 0.2rem -0.4rem;
+  margin: 0.5rem 0 0.2rem calc(-1 * clamp(0rem, -0.457rem + 1.829vw, 0.4rem));
   white-space: nowrap;
 }
 
