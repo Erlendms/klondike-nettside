@@ -9,7 +9,8 @@
 
 // Links
 a,
-a.internal {
+a.internal,
+a.internal.internal {
   text-decoration: underline var(--tertiary);
   text-decoration-thickness: 2px;
   transition: all 0.35s ease-in-out;
