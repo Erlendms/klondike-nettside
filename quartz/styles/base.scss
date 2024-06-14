@@ -68,7 +68,8 @@ a {
   }
 
   &.internal {
-    text-decoration: underline var(--tertiary);
+    text-decoration-line: underline;
+    text-decoration-color: var(--tertiary);
     text-decoration-thickness: 2px;
 
     &:has(> img) {
