@@ -9,15 +9,18 @@
 
 // Links
 a {
-  text-decoration: underline var(--tertiary);
+  text-decoration-line: underline;
+  text-decoration-color: var(--tertiary);
   text-decoration-thickness: 2px;
   transition: all 0.35s ease-in-out;
   color: var(--secondary);
 
   &:hover {
     color: var(--tertiary-b);
-    text-decoration-thickness: 0;
     text-decoration-color: var(--light);
+    @supports (-moz-appearance: none) {
+      text-decoration-thickness: 0;
+    }
   }
 
   // &.internal {
