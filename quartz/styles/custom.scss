@@ -181,3 +181,15 @@ p.lyric {
 .darkmode svg {
   fill: var(--tertiary);
 }
+
+// Folder page
+
+li.section-li > .section > .meta {
+  display: none;
+}
+.desc {
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+}
