@@ -4,12 +4,16 @@ title: apollo_chords
 
 [[chords_and_lyrics/apollo|Click here for the lyrics]]
 
+<p class="song-title">Song title: Apollo. Lyrics and chords:</p>
+
 #### Intro/theme:
 
 ```
 | G     C      | G            |
 | G     C      | D Dsus4/A G  |
 ```
+
+#### Verse 1:
 
 `G           C                   G`
 
@@ -26,7 +30,8 @@ title: apollo_chords
 `(G)          C            D  Dsus4/A  G`
 
 <p class="lyric">I guess you'll find out if you come with me</p>
-<br><br>
+
+#### Pre-chorus 1:
 
 `            G      C/G  G`
 
@@ -35,7 +40,8 @@ title: apollo_chords
 `         G       C/G      G Dsus4/A G/H`
 
 <p class="lyric">and I will see you tomorrow morn’.”</p>
-<br><br>
+
+#### Chorus 1:
 
 `     C          G    D   C`
 
@@ -60,7 +66,13 @@ title: apollo_chords
 `D/F# Em7 /B C  Am7 D  G`
 
 <p class="lyric">I'll wake up with an oak tree.</p>
-<br><br>
+
+```
+| G     C      | G            |
+| G     C      | D Dsus4/A G  |
+```
+
+#### Verse 2:
 
 `G                 C           G`
 
@@ -77,7 +89,8 @@ title: apollo_chords
 `(G)           C            D  Dsus4/A  G`
 
 <p class="lyric">She brings her arrows, I bring more cologne.</p>
-<br><br>
+
+#### Pre-chorus 2:
 
 `            G      C/G  G`
 
@@ -94,7 +107,8 @@ title: apollo_chords
 `            G            C/G   G`
 
 <p class="lyric">because you only got to to borrow me".</p>
-<br><br>
+
+#### Chorus 2:
 
 `     C           G    D   C`
 
@@ -119,3 +133,58 @@ title: apollo_chords
 `D/F# Em7 /B C  Am7 D   G`
 
 <p class="lyric">I'll wake up with an oak tree.</p>
+
+```
+||: G      C     | G              |
+|   G      C     | D Dsus4/A G  :||
+```
+
+#### Pre-chorus 3: (like 2)
+
+`            G      C/G  G`
+
+<p class="lyric">And I'll say "Hey, I'm Apollo,</p>
+
+`          G      C/G  G`
+
+<p class="lyric">and I will see you tomorrow morn’.”</p>
+
+`            G            C/G  G`
+
+<p class="lyric">And by then you'll have to wallow</p>
+
+`            G            C/G   G`
+
+<p class="lyric">because you only got to to borrow me".</p>
+
+#### Chorus 3+4:
+
+`     C           G    D   C`
+
+<p class="lyric">Then when you've seen the sun</p>
+
+`            D Dsus4/A  G`
+
+<p class="lyric">and when all is said and done</p>
+
+`D/F# Em7 /B C Am7 D G`
+
+<p class="lyric">I find out you're no Daphne.</p>
+
+`(G)             D     C`
+
+<p class="lyric">I'll look for more sweet bay</p>
+
+`         D Dsus4/A  G`
+
+<p class="lyric">but still I guess another day</p>
+
+`D/F# Em7 /B C  (D /C# /C  Em /F D/F#)`
+
+<p class="lyric">I'll wake up with an oak tree.</p>
+
+#### Outro:
+```
+||: G      C     | G              |
+|   G      C     | D Dsus4/A G  :||
+```

@@ -77,9 +77,30 @@ footer p {
   margin-right: 8px;
 }
 
+p.song-title {
+  margin-top: -3rem;
+  font-size: 0;
+}
+
 // Chords
+
+button.clipboard-button {
+  display: none;
+}
+
+pre {
+  border-radius: $imageRadius;
+  padding: 0 0.9rem;
+  margin-left: -1.14rem;
+}
+
+pre > code {
+  color: $tertiary-b;
+  font-size: 1.1rem;
+}
+
 p:has(code):not(:has(a)) {
-  margin: 0;
+  margin: 0 0 -0.4rem 0;
   code {
     background: none;
     color: $tertiary-b;
@@ -89,9 +110,4 @@ p:has(code):not(:has(a)) {
 
 p.lyric {
   margin: 0;
-}
-
-p.song-title {
-  margin-top: -3rem;
-  font-size: 0;
 }
