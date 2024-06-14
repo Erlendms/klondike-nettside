@@ -76,7 +76,7 @@ a {
 }
 
 .article-title {
-  margin-top: 1rem;
+  display: none;
 }
 
 .breadcrumb-element {
@@ -95,6 +95,7 @@ a {
 }
 .navigation-links {
   margin: 0.5rem 0 0.2rem -0.4rem;
+  white-space: nowrap;
 }
 
 .navigation-links a {
@@ -102,6 +103,7 @@ a {
   border-right: 2px solid var(--tertiary);
   padding-right: 0.6rem;
   text-decoration: none;
+  font-size: clamp(0.8rem, 0.646rem + 0.615vw, 1.2rem);
 }
 
 img,
