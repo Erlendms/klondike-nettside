@@ -88,7 +88,7 @@ a {
     text-decoration: none;
   }
   &:last-of-type a {
-    margin-bottom: 0.6875em;
+    margin-bottom: 0.2em;
     font-weight: $semiBoldWeight;
     font-size: clamp(1.4rem, 1.169rem + 0.923vw, 2rem);
   }
