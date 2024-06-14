@@ -33,6 +33,9 @@ a {
 // Header
 .page-title {
   background-image: url(static/klondike_logotype.png);
+  @media (prefers-color-scheme: dark) {
+    background-image: url(static/klondike_logotype_dm.png);
+  }
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -43,6 +46,7 @@ a {
   }
   a,
   a:hover {
+    text-decoration: none;
     color: transparent;
   }
 }
