@@ -102,7 +102,7 @@ pre {
 }
 
 pre > code {
-  color: $tertiary-b;
+  color: var(--tertiary-b);
   font-size: 1.1rem;
 }
 
