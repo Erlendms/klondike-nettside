@@ -8,8 +8,7 @@
 }
 
 // Links
-a,
-a.internal {
+a {
   text-decoration: underline var(--tertiary);
   text-decoration-thickness: 2px;
   transition: all 0.35s ease-in-out;
@@ -28,6 +27,12 @@ a.internal {
     padding: unset;
     border-radius: unset;
     line-height: unset;
+
+    &:hover {
+      color: var(--tertiary-b);
+      text-decoration-thickness: 0;
+      text-decoration-color: var(--light);
+    }
   }
 }
 
