@@ -15,11 +15,13 @@ a {
   transition: all 0.35s ease-in-out;
   color: var(--secondary);
 
-  &:hover {
-    color: var(--tertiary-b);
-    text-decoration-color: var(--light);
-    @supports (-moz-appearance: none) {
-      text-decoration-thickness: 0;
+  @media (hover: hover) {
+    &:hover {
+      color: var(--tertiary-b);
+      text-decoration-color: var(--light);
+      @supports (-moz-appearance: none) {
+        text-decoration-thickness: 0;
+      }
     }
   }
 
