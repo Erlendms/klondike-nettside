@@ -3,7 +3,10 @@ title: klondike
 description: Oslo based pop band, up to some good.
 ---
 
-<div class="navigation">[**/music**](https://klondike.band/#music) [**/social_media**](https://klondike.band/#social_media) [**/chords_and_lyrics**](https://klondike.band/#chords_and_lyrics)
+<div class="navigation-links">
+<a href="https://klondike.band/#music">/music</a>
+<a href="https://klondike.band/#social_media">/social_media</a>
+<a href="https://klondike.band/#chords_and_lyrics">/chords_and_lyrics</a>
 </div>
 
 <img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp">
