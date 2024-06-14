@@ -4,7 +4,7 @@ title: apollo
 
 [[chords_and_lyrics/apollo_chords|Click here for the chords]]
 
-I believe you don't know what you really wanna know:  
+I believe you don't know what you really wanna know:
 If I leave right now, would I let you follow?  
 Do you wanna know how it feels to be complete?  
 I guess you'll find out if you come with me
