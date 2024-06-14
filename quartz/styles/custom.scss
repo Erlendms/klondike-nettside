@@ -2,9 +2,13 @@
 @use "./base.scss";
 // put your custom CSS here!
 
+:root {
+  --body-margin: clamp(0rem, -0.385rem + 1.538vw, 1rem);
+}
+
 .page > #quartz-body {
-  width: calc(100% - 2rem);
-  margin-left: 1rem;
+  width: calc(100% - (2 * var(--body-margin)));
+  margin-left: var(--body-margin);
 }
 
 // Links
@@ -110,9 +114,17 @@ a {
 
 img,
 iframe,
-video {
+video,
+.lazy-placeholder {
   border-radius: $imageRadius;
   box-shadow: 3px 3px 18px #00000040;
+}
+
+.lazy-placeholder {
+  position: relative;
+
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 // Footer

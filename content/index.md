@@ -9,7 +9,8 @@ description: Oslo based pop band, up to some good.
 <a href="https://klondike.band/#chords_and_lyrics">/chords_and_lyrics</a>
 </div>
 
-<img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp">
+<div class="lazy-placeholder" style="background-image: url('https://havn.blog/uploads/2024/fellesbilde-liggende.png');">
+	<img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp" alt="Five men pose closely together, some with stern expressions, against a backdrop of warm lighting and plush red curtains."></div>
 
 ## music
 
