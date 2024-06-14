@@ -4,8 +4,6 @@ title: apollo_chords
 
 [[chords_and_lyrics/apollo|Click here for the lyrics]]
 
-<p class="song-title">Song title: Apollo. Lyrics and chords:</p>
-
 #### Intro/theme:
 
 ```
