@@ -3,12 +3,16 @@
 // put your custom CSS here!
 
 :root {
+  --page-margin: clamp(0.5rem, 0.308rem + 0.769vw, 1rem);
   --body-margin: clamp(0rem, -1.143rem + 4.571vw, 1rem);
 }
 
-.page > #quartz-body {
-  width: calc(100% - (2 * var(--body-margin)));
-  margin-left: var(--body-margin);
+.page {
+  padding: 0 var(--page-margin);
+  & > #quartz-body {
+    width: calc(100% - (2 * var(--body-margin)));
+    margin-left: var(--body-margin);
+  }
 }
 
 // Links
@@ -124,7 +128,7 @@ video,
 
 .lazy-placeholder {
   position: relative;
-  margin: 0;
+  margin: 1rem 0;
 
   background-repeat: no-repeat;
   background-size: cover;
