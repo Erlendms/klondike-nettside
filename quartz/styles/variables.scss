@@ -19,3 +19,6 @@ $imageRadius: 12px;
     --tertiary-b: #a9e0de;
   }
 }
+:root[saved-theme="dark"] {
+  --tertiary-b: #a9e0de;
+}

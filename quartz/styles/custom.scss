@@ -50,8 +50,14 @@ a {
 
   a,
   a:hover {
-    text-decoration: none;
-    color: transparent;
+    text-decoration: none !important;
+    color: transparent !important;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .page-title {
+    background-image: url(static/klondike_logotype_dm.png); /* Dark mode logo */
   }
 }
 
