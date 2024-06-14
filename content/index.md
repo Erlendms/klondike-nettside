@@ -13,7 +13,7 @@ description: Oslo based pop band, up to some good.
 
 ## music
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4sMdfFU2LPV51Bi2ngyl1W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/artist/4sMdfFU2LPV51Bi2ngyl1W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - [Click here to go to Apple Music](https://music.apple.com/no/artist/klondike/1463406042)
 - [Click here to go to Tidal](https://tidal.com/browse/artist/6694130)

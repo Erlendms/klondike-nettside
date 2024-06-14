@@ -83,13 +83,15 @@ a {
 }
 
 .navigation-links a {
-  margin-inline: 0.4rem;
+  margin-inline: 0.3rem;
   border-right: 2px solid var(--tertiary);
   padding-right: 0.6rem;
   text-decoration: none;
 }
 
-img {
+img,
+iframe,
+video {
   border-radius: $imageRadius;
   box-shadow: 3px 3px 18px #00000040;
 }
