@@ -9,8 +9,7 @@ description: Oslo based pop band, up to some good.
 <a href="https://klondike.band/#chords_and_lyrics">/chords_and_lyrics</a>
 </div>
 
-<div class="lazy-placeholder" style="background-image: url('https://havn.blog/uploads/2024/fellesbilde-liggende.png');">
-	<img style="margin:0;" src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp" alt="Five men pose closely together, some with stern expressions, against a backdrop of warm lighting and plush red curtains."></div>
+<img src="https://havn.blog/uploads/2024/fellesbilde-liggendeweb.webp" alt="The bandmembers.">
 
 ## music
 
@@ -27,11 +26,11 @@ description: Oslo based pop band, up to some good.
 ## chords_and_lyrics
 
 - [[chords_and_lyrics/apollo|apollo]]
-- [[chords_and_lyrics/brother_of_my_heart|brother_of_my_heart]]
-- [[chords_and_lyrics/city_lights|city_lights]]
-- [[chords_and_lyrics/curtain_call|curtain_call]]
-- [[chords_and_lyrics/feet_in_the_water|feet_in_the_water]]
+- [[chords_and_lyrics/brother_of_my_heart|brother of my heart]]
+- [[chords_and_lyrics/city_lights|city lights]]
+- [[chords_and_lyrics/curtain_call|curtain call]]
+- [[chords_and_lyrics/feet_in_the_water|feet in the water]]
 - [[chords_and_lyrics/firefighter|firefighter]]
 - [[chords_and_lyrics/healing|healing]]
-- [[chords_and_lyrics/lose_it|lose_it]]
-- [[chords_and_lyrics/shot_down|shot_down]]
+- [[chords_and_lyrics/lose_it|lose it]]
+- [[chords_and_lyrics/shot_down|shot down]]
