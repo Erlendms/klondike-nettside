@@ -166,3 +166,7 @@ p:has(code):not(:has(a)) {
 p.lyric {
   margin: 0;
 }
+
+.darkmode svg {
+  fill: var(--tertiary);
+}
