@@ -4,49 +4,49 @@ title: curtain_call
 
 [[chords_and_lyrics/curtain_call_chords|Click here for the chords]]
 
-Another midnight and we’re dancing,
-but it’s alright - I know we just play around.
-My friends say «Avoid her. It is over.»
-I’m a soldier - this floor is a battleground.
+Another midnight and we’re dancing,</br>
+but it’s alright - I know we just play around.</br>
+My friends say «Avoid her. It is over.»</br>
+I’m a soldier - this floor is a battleground.</br>
 
-I hate the feeling when I hear you say
-that you want me to look away.
-Like a deer in the headlight I am dancing
-as an air strike - you’re kissing another guy.
+I hate the feeling when I hear you say</br>
+that you want me to look away.</br>
+Like a deer in the headlight I am dancing</br>
+as an air strike - you’re kissing another guy.</br>
 
-I’ve been picking all of these battles,
-and I know I’m out of control.
-I’ve been thinking about all the scandals
-as I’m drinking on my own.
-I’ve been checking out all these dancers,
-and there’s no on just like you.
-and I’m looking to you for the answers,
-even though we’re through.
+I’ve been picking all of these battles,</br>
+and I know I’m out of control.</br>
+I’ve been thinking about all the scandals</br>
+as I’m drinking on my own.</br>
+I’ve been checking out all these dancers,</br>
+and there’s no on just like you.</br>
+and I’m looking to you for the answers,</br>
+even though we’re through.</br>
 
-I look at a screen with nothing.
-And I don’t really know if I’ll sleep at all.
-I just feel like screaming something,
-but I know, it’s my demon’s curtain call.
+I look at a screen with nothing.</br>
+And I don’t really know if I’ll sleep at all.</br>
+I just feel like screaming something,</br>
+but I know, it’s my demon’s curtain call.</br>
 
-I never wanna find another
-prima donna - that makes me forget that I
-once was a fighter flying higher.
-But, my desire accepts that I don’t know why
+I never wanna find another</br>
+prima donna - that makes me forget that I</br>
+once was a fighter flying higher.</br>
+But, my desire accepts that I don’t know why</br>
 
-I’ve been picking all of these battles,
-and I know I’m out of control.
-I’ve been thinking about all the scandals
-as I’m drinking on my own.
-I’ve been checking out all these dancers,
-and there’s no on just like you.
-and I’m looking to you for the answers,
-even though we’re through.
+I’ve been picking all of these battles,</br>
+and I know I’m out of control.</br>
+I’ve been thinking about all the scandals</br>
+as I’m drinking on my own.</br>
+I’ve been checking out all these dancers,</br>
+and there’s no on just like you.</br>
+and I’m looking to you for the answers,</br>
+even though we’re through.</br>
 
-I wake up to empty bottles,
-and I don’t wanna know if I drank it all.
-I wake up to empty bottles,
-and I know, it’s my demon’s curtain call.
-Everyone said we belong together
+I wake up to empty bottles,</br>
+and I don’t wanna know if I drank it all.</br>
+I wake up to empty bottles,</br>
+and I know, it’s my demon’s curtain call.</br>
+Everyone said we belong together.</br>
 
 //:I don’t wanna think about you, I don’t wanna know.
 
