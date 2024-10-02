@@ -13,9 +13,7 @@ title: info
 
 ### tekst_som_kan_brukes:
 
-_Klondike_ er et Oslo-basert band, kjent for sine uhyre sterke liveopptredener. De spiller musikken de har ønsket at andre lagde, og leverer den med lidenskap, energi og mengder glimt i øyet.
-
-*Klondike* blir sammenlignet med både _Beatenberg_, *The 1975* og *Paul Simon* - og med catchy låter, omfavnes 80- og 90-tallet for alt det er verdt!
+_Klondike_ er et Oslo-basert band, kjent for sine uhyre sterke liveopptredener. Bandet sammenlignes med _Beatenberg_, *The 1975* og *Paul Simon* – og leverer musikk med lidenskap, energi og mengder glimt i øyet.
 
 - [Lenke til bilder og logo](https://www.dropbox.com/scl/fo/053o3kp17v5o7fd9052vp/AEcKifU01F_LOMv91-TGXQc?rlkey=pucgsv4m4wbq0hvj78ct2xfln&dl=0)
 - [Lenke til en Spotify-liste med alle utgitte låter](https://open.spotify.com/playlist/4dHv2C67d3RntiOcYkDoqO)
