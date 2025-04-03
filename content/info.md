@@ -43,7 +43,7 @@ Født/fra: 1991, Kristiansand
 **Ole Martin Thorset** - trommer  
 Født/fra: 1988, Vikersund
 
-**Runar Netland** - trommer  
+**Runar Netland** (ikke avbildet) - trommer  
 Født/fra: 1993, Stryn
 
 **Benjamin Aasheim** - vokal  
