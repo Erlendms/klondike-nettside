@@ -2,6 +2,7 @@
 title: info
 ---
 
+
 ## ridere_og_stageplot
 
 - [Lenke til teknisk rider m/hospitality](https://www.dropbox.com/scl/fi/iuv64b8g9kma5r4jyyrln/Klondike-teknisk-rider-m-hospitality.pdf?rlkey=dlbbc5cm8qwkxfz8kmy3timmd&dl=0)
@@ -15,7 +16,7 @@ title: info
 
 _Klondike_ er et Oslo-basert band, kjent for sine uhyre sterke liveopptredener. Bandet sammenlignes med _Beatenberg_, *The 1975* og *Paul Simon* – og leverer musikk med lidenskap, energi og mengder glimt i øyet.
 
-- [Lenke til bilder og logo](https://www.dropbox.com/scl/fo/053o3kp17v5o7fd9052vp/AEcKifU01F_LOMv91-TGXQc?rlkey=pucgsv4m4wbq0hvj78ct2xfln&dl=0)
+- [Lenke til bilder og logo](https://www.dropbox.com/scl/fo/053o3kp17v5o7fd9052vp/AEcKifU01F_LOMv91-TGXQc?rlkey=nrjsnr3wdrah2t8xizqqlwu6d&st=ldm5lm7g&dl=0)
 - [Lenke til en Spotify-liste med alle utgitte låter](https://open.spotify.com/playlist/4dHv2C67d3RntiOcYkDoqO)
 
 <video src="https://havn.blog/uploads/2024/klondike-reel-web.mp4" controls="controls" preload="metadata"></video>
@@ -26,6 +27,7 @@ Her er en lenke til videoen over: `https://peertube.tv/w/gtzB6Gs66McSMgTD5pqybJ`
 
 - **kontaktperson**: Erlend Markussen Saltnes
 - **e-post**: post@klondike.band
+- **telefon**: 970 40 825
 - **organisasjonsnummer**: 918 280 413 (Klondikeband AS)
 - **adresse**: Maridalsveien 256B 0872 Oslo
 
@@ -40,6 +42,9 @@ Født/fra: 1991, Kristiansand
 
 **Ole Martin Thorset** - trommer  
 Født/fra: 1988, Vikersund
+
+**Runat Netland** (ikke avbilda) – trommer
+Født/fra: 1993, Stryn
 
 **Benjamin Aasheim** - vokal  
 Født/fra: 1991, Oslo
